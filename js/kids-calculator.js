@@ -17,8 +17,7 @@ function addNumbers(a, b) {
         degete = a;
 
     }
-
-for (; degete > 0;) {
+while (degete > 0) {
     degete--; // luam un deget de la b
     suma++; // il punem la a
 
